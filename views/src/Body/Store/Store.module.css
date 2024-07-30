@@ -1,0 +1,8 @@
+
+.store {
+    display: flex;
+    flex-direction: row;
+    /* height: 200vh; */
+    background-color: rgb(238,240,243);
+    align-items: start;
+}
